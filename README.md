@@ -24,6 +24,7 @@ Customer churn is a critical problem for businesses, especially in the banking s
 ---
 
 ## Dataset
+Link : https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
 
 The dataset used in this project is `Bank Customer Churn Prediction.csv`, which contains the following features:
 - **Numerical Features**: `credit_score`, `age`, `tenure`, `balance`, `estimated_salary`, etc.
